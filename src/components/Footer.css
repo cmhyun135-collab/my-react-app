@@ -1,0 +1,23 @@
+.footer {
+  background-color: #2C3E50;
+  color: white;
+  padding: 2rem 1rem;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: auto; /* Pushes footer to the bottom of the flex container */
+}
+
+.footer p {
+  margin: 0.5rem 0;
+}
+
+.footer .copyright {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.footer .credits {
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
